@@ -22,4 +22,5 @@ library
     base ==4.5.*,
     attoparsec,
     text,
-    language-tag 
+    language-tag, 
+    quality-value
